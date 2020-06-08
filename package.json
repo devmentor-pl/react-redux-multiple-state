@@ -1,5 +1,5 @@
 {
-  "homepage": "/build/",
+  "homepage": "/react-redux-multiple-state/build/",
   "name": "react-redux-helloword",
   "version": "0.1.0",
   "private": true,
