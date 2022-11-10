@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-multiple-state/build/static/css/main.073c9b0a.css",
+    "main.js": "/react-redux-multiple-state/build/static/js/main.25c51ee9.js",
+    "static/js/787.e6c66cb2.chunk.js": "/react-redux-multiple-state/build/static/js/787.e6c66cb2.chunk.js",
+    "index.html": "/react-redux-multiple-state/build/index.html",
+    "main.073c9b0a.css.map": "/react-redux-multiple-state/build/static/css/main.073c9b0a.css.map",
+    "main.25c51ee9.js.map": "/react-redux-multiple-state/build/static/js/main.25c51ee9.js.map",
+    "787.e6c66cb2.chunk.js.map": "/react-redux-multiple-state/build/static/js/787.e6c66cb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.25c51ee9.js"
+  ]
+}
